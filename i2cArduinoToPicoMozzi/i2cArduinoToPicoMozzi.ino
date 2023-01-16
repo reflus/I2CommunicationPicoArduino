@@ -1,4 +1,4 @@
-///12C MASTER
+//12C MASTER
 
 #include <Wire.h>
 #include <BoutonLib.h>
