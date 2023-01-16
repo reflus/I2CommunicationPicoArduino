@@ -2,6 +2,7 @@
 
 #include <Wire.h>
 #include <BoutonLib.h>
+#include <PotLib.h>
 
 const byte boutonPin[]={2,3}; 
 const byte nbrBoutons=sizeof(boutonPin)/sizeof(*boutonPin);
